@@ -21,7 +21,7 @@ const [count, setCount] = useState(0)
 return (
   <>
     <div class="main">
-      <div class="card">
+      <div class="card mt-5">
         <div class="card-body">
           <div class="card-header">
             <h3>Click Counter</h3>
