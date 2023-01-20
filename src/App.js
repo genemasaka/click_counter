@@ -26,7 +26,7 @@ return (
           <div class="card-header">
             <h3>Click Counter</h3>
           </div>
-          <div class="card-body">
+          <div class="card-body mt-3">
             <h5>Current count is:</h5>
             <p>{count}</p>
             <button onClick={() => setCount(count+1)} class="btn btn-dark">Click</button>
